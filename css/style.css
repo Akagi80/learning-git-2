@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: lightgrey;
+}
+
+.title {
+    font-size: 36px;
+    color: blue;
+}
+
+.author {
+    font-size: 24px;
+    font-style: italic;
+}
+
+p {
+    font-size: 18px;
+}
+
+.chorus {
+    font-style: italic;
+}
+
+.about {
+    color: darkblue;
+}
