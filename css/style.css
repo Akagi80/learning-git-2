@@ -17,8 +17,13 @@ p {
     font-size: 18px;
 }
 
+.verse {
+    color: darkviolet;
+}
+
 .chorus {
     font-style: italic;
+    color: darkred;
 }
 
 .about {
