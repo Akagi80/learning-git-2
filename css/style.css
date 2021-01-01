@@ -18,12 +18,12 @@ p {
 }
 
 .verse {
-    color: darkviolet;
+    color: rgb(92, 41, 0);
 }
 
 .chorus {
     font-style: italic;
-    color: darkred;
+    color: rgb(180, 75, 4);
 }
 
 .about {
